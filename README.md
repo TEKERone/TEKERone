@@ -29,22 +29,23 @@ Here are some ideas to get you started:
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Francisco Frias
-located_in: Mexico City
-current_job: Developer Python | QA Automation
+Name: Francisco Frias
+Located_in: Mexico City
+Current_job: QA Automation | Developer Python
 
-company: Accenture
+Company: Accenture
 
-fields_of_interests:
+Fields_of_interests:
   [
-    "Web Development",
+    "QA Automation",
+    "Testing",
+    "DevOps",
+    "IA",
     "Data Science",
     "Machine Learning",
     "Big Data",
-    "Testing",
-    "QA Automation"
-    "DevOps",
-    "UI/UX",
+    "Web Development",
+    "UI/UX"
   ]
 
 ```
@@ -67,10 +68,11 @@ fields_of_interests:
 ---
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+![TEKERone's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEKERone&show_icons=true&theme=tokyonight)
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)-->
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
